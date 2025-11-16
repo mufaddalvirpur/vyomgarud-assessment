@@ -2,6 +2,7 @@
 
 A modern and responsive landing page built using **Next.js (App Router)** and **Tailwind CSS** as part of the VyomGarud Web Developer Assessment.
 
+![image alt](https://github.com/mufaddalvirpur/vyomgarud-assessment/blob/6d3367f331f38073141985f0b6ce5a7efbb86a38/assets/screenshots/Screenshot%20(114).png)
 ---
 
 ## 📦 Setup
