@@ -16,11 +16,15 @@ npm run dev
 Open http://localhost:3000 in your browser.
 
 🛠 Tech Stack
+
 Next.js (App Router)
+
 Tailwind CSS
+
 JavaScript (ES6+)
 
 📁 Project Structure
+```bash
 src/
  ├─ app/
  │   ├─ layout.js
@@ -33,17 +37,25 @@ src/
  │   └─ Footer.jsx
  └─ styles/
      └─ globals.css
+```
 
 🎨 Design Notes
+
 Dark UI theme using #0b0c0f
+
 Accent color: #ff7b00
+
 Simple, readable typography
+
 Component-based layout (Hero → About → Capabilities → Highlights → Footer)
+
 Fully responsive (mobile, tablet, desktop)
 
 📸 Screenshots
+```bash
 /assets/screenshots/
  ├─ desktop.png
+```
 
 👤 Author
 Mufaddal Virpurwala
